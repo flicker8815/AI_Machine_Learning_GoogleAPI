@@ -1,0 +1,10 @@
+Face  0.97372866
+Cartoon  0.93970466
+Anime  0.9378009
+Mouth  0.85718894
+Nose  0.8419632
+Snapshot  0.8291832
+Eye  0.8049
+Jaw  0.7825856
+Forehead  0.7822764
+Glasses  0.7367157

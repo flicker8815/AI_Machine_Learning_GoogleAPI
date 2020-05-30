@@ -1,0 +1,10 @@
+vision care  0.822682
+girl  0.8197745
+gravure idol  0.7553056
+black hair  0.74442905
+glasses  0.7082566
+long hair  0.64778954
+brown hair  0.60729855
+eyewear  0.5889762
+camgirl  0.5486005
+japanese idol  0.53086555

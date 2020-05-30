@@ -1,0 +1,10 @@
+Dog  0.9953705
+Mammal  0.9890478
+Vertebrate  0.9851104
+Dog breed  0.9838449
+Canidae  0.981378
+Welsh Corgi  0.9670616
+Pembroke welsh corgi  0.95533407
+Carnivore  0.9342105
+Companion dog  0.8688483
+Cardigan welsh corgi  0.8632

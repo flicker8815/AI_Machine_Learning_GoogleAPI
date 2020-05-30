@@ -1,0 +1,10 @@
+purple  0.91997415
+art  0.91590846
+text  0.88231146
+cartoon  0.80939436
+drawing  0.77458173
+design  0.7058387
+line  0.6639365
+font  0.65905464
+visual arts  0.649736
+fictional character  0.62881356

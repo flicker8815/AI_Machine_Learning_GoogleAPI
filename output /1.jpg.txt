@@ -1,0 +1,9 @@
+cartoon  0.8816376
+anime  0.83114934
+comics  0.7942829
+fiction  0.7767834
+screenshot  0.6834847
+black hair  0.680948
+fictional character  0.57560647
+cg artwork  0.53074324
+photo caption  0.50302386

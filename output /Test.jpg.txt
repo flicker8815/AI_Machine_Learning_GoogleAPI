@@ -1,0 +1,10 @@
+hair  0.97348154
+clothing  0.9674909
+human hair color  0.94246525
+anime  0.92698497
+joint  0.886393
+leg  0.8552251
+shoulder  0.8217615
+girl  0.8195446
+cartoon  0.8131452
+black hair  0.8103602

@@ -1,0 +1,6 @@
+Fictional character  0.8897336
+Anime  0.88596565
+Supervillain  0.6778768
+Fiction  0.59162915
+Animation  0.5582483
+Hero  0.53544146

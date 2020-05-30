@@ -1,0 +1,10 @@
+Clothing  0.9824311
+White  0.9717564
+Pink  0.9705509
+Dress  0.9700698
+Day dress  0.9278584
+Child  0.87169194
+Pattern  0.86413133
+Polka dot  0.8568795
+A-line  0.8154574
+Sleeve  0.8119061

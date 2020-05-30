@@ -1,0 +1,9 @@
+eyewear  0.92097837
+vision care  0.9104592
+glasses  0.90029305
+boy  0.82828015
+product  0.74539953
+outerwear  0.73960644
+cool  0.7357564
+neck  0.5118805
+smile  0.5084657

@@ -1,0 +1,10 @@
+vision care  0.91861266
+eyewear  0.89291155
+glasses  0.89172417
+shoulder  0.8646189
+fashion accessory  0.8322269
+t shirt  0.7489603
+outerwear  0.7355436
+product  0.73275596
+textile  0.7306861
+design  0.72259396

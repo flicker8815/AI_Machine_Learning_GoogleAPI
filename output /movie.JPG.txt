@@ -1,0 +1,8 @@
+Screen  0.86550295
+Electronics  0.7308113
+Technology  0.7120629
+Media  0.67450047
+Electronic device  0.6612973
+Display device  0.61661917
+Multimedia  0.5720447
+Gadget  0.5395982

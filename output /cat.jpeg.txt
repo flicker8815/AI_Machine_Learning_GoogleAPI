@@ -1,0 +1,10 @@
+Cat  0.99598557
+Mammal  0.9890478
+Vertebrate  0.9851104
+Small to medium-sized cats  0.9698144
+Whiskers  0.9693355
+Felidae  0.9654615
+Domestic long-haired cat  0.9553637
+Asian semi-longhair  0.9385594
+British longhair  0.92379206
+Persian  0.9024103
